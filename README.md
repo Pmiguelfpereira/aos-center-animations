@@ -2,7 +2,8 @@
 Center all aos animation in one file
 
 
-#Example: add new animation
+## Example 
+### Add new animation
 
 ```javascript
 var animation = {
