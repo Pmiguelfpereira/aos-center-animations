@@ -1,4 +1,4 @@
-# aos-center-animations
+# Center Animation on a File
 Center all aos animation in one file
 
 
