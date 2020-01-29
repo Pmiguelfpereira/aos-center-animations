@@ -29,7 +29,7 @@ var animation = {
 }
 ```
 
-Inicialize 
+Initialize 
 ```javascript
 $( document ).ready(function() {
     callanimation();
